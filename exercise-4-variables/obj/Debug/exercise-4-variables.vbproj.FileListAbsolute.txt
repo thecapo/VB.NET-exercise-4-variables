@@ -22,3 +22,9 @@ D:\TERM 1\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variabl
 D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.exe
 D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.xml
 D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.pdb
+D:\TERM 1\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.exe
+D:\TERM 1\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.pdb
+D:\TERM 1\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.xml
+D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise_4_variables.Form1.resources
+D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise_4_variables.Resources.resources
+D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.vbproj.GenerateResource.Cache
