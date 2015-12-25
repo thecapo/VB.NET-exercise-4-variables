@@ -1,0 +1,24 @@
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.exe.config
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\obj\Debug\exercise_4_variables.Form1.resources
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\obj\Debug\exercise_4_variables.Resources.resources
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.vbproj.GenerateResource.Cache
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.exe
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.pdb
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.xml
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.exe
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.xml
+C:\Users\bhi1599017\Downloads\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.pdb
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.exe.config
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.exe
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.xml
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.pdb
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.exe
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.pdb
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.xml
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\obj\Debug\exercise_4_variables.Form1.resources
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\obj\Debug\exercise_4_variables.Resources.resources
+C:\Users\cawo\Desktop\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.vbproj.GenerateResource.Cache
+D:\TERM 1\exercise-4-variables\exercise-4-variables\bin\Debug\exercise-4-variables.exe.config
+D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.exe
+D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.xml
+D:\TERM 1\exercise-4-variables\exercise-4-variables\obj\Debug\exercise-4-variables.pdb
